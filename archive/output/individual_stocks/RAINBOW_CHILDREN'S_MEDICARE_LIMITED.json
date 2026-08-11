@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "generated_on": "2026-01-24 20:59:51",
+    "data_range_years": 10,
+    "data_frequency": "monthly"
+  },
+  "stock_data": {
+    "name": "RAINBOW CHILDREN'S MEDICARE LIMITED",
+    "requested_symbols": [
+      "RAINBOW.NS",
+      "RAINBOW.BO"
+    ],
+    "actual_symbol_used": "RAINBOW.NS",
+    "data_points": 45,
+    "date_range": {
+      "start": "2022-05-01",
+      "end": "2026-01-01"
+    },
+    "monthly_prices": [
+      {
+        "date": "2022-05-01",
+        "year": 2022,
+        "month": 5,
+        "closing_price": 491.74
+      },
+      {
+        "date": "2022-06-01",
+        "year": 2022,
+        "month": 6,
+        "closing_price": 460.83
+      },
+      {
+        "date": "2022-07-01",
+        "year": 2022,
+        "month": 7,
+        "closing_price": 483.63
+      },
+      {
+        "date": "2022-08-01",
+        "year": 2022,
+        "month": 8,
+        "closing_price": 603.99
+      },
+      {
+        "date": "2022-09-01",
+        "year": 2022,
+        "month": 9,
+        "closing_price": 623.92
+      },
+      {
+        "date": "2022-10-01",
+        "year": 2022,
+        "month": 10,
+        "closing_price": 683.77
+      },
+      {
+        "date": "2022-11-01",
+        "year": 2022,
+        "month": 11,
+        "closing_price": 739.84
+      },
+      {
+        "date": "2022-12-01",
+        "year": 2022,
+        "month": 12,
+        "closing_price": 733.54
+      },
+      {
+        "date": "2023-01-01",
+        "year": 2023,
+        "month": 1,
+        "closing_price": 761.08
+      },
+      {
+        "date": "2023-02-01",
+        "year": 2023,
+        "month": 2,
+        "closing_price": 734.88
+      },
+      {
+        "date": "2023-03-01",
+        "year": 2023,
+        "month": 3,
+        "closing_price": 724.91
+      },
+      {
+        "date": "2023-04-01",
+        "year": 2023,
+        "month": 4,
+        "closing_price": 785.29
+      },
+      {
+        "date": "2023-05-01",
+        "year": 2023,
+        "month": 5,
+        "closing_price": 981.72
+      },
+      {
+        "date": "2023-06-01",
+        "year": 2023,
+        "month": 6,
+        "closing_price": 953.74
+      },
+      {
+        "date": "2023-07-01",
+        "year": 2023,
+        "month": 7,
+        "closing_price": 1098.92
+      },
+      {
+        "date": "2023-08-01",
+        "year": 2023,
+        "month": 8,
+        "closing_price": 1054.58
+      },
+      {
+        "date": "2023-09-01",
+        "year": 2023,
+        "month": 9,
+        "closing_price": 1023.62
+      },
+      {
+        "date": "2023-10-01",
+        "year": 2023,
+        "month": 10,
+        "closing_price": 1058.26
+      },
+      {
+        "date": "2023-11-01",
+        "year": 2023,
+        "month": 11,
+        "closing_price": 1068.36
+      },
+      {
+        "date": "2023-12-01",
+        "year": 2023,
+        "month": 12,
+        "closing_price": 1187.56
+      },
+      {
+        "date": "2024-01-01",
+        "year": 2024,
+        "month": 1,
+        "closing_price": 1212.0
+      },
+      {
+        "date": "2024-02-01",
+        "year": 2024,
+        "month": 2,
+        "closing_price": 1350.96
+      },
+      {
+        "date": "2024-03-01",
+        "year": 2024,
+        "month": 3,
+        "closing_price": 1291.58
+      },
+      {
+        "date": "2024-04-01",
+        "year": 2024,
+        "month": 4,
+        "closing_price": 1368.87
+      },
+      {
+        "date": "2024-05-01",
+        "year": 2024,
+        "month": 5,
+        "closing_price": 1294.72
+      },
+      {
+        "date": "2024-06-01",
+        "year": 2024,
+        "month": 6,
+        "closing_price": 1240.12
+      },
+      {
+        "date": "2024-07-01",
+        "year": 2024,
+        "month": 7,
+        "closing_price": 1179.1
+      },
+      {
+        "date": "2024-08-01",
+        "year": 2024,
+        "month": 8,
+        "closing_price": 1264.98
+      },
+      {
+        "date": "2024-09-01",
+        "year": 2024,
+        "month": 9,
+        "closing_price": 1397.07
+      },
+      {
+        "date": "2024-10-01",
+        "year": 2024,
+        "month": 10,
+        "closing_price": 1610.99
+      },
+      {
+        "date": "2024-11-01",
+        "year": 2024,
+        "month": 11,
+        "closing_price": 1586.24
+      },
+      {
+        "date": "2024-12-01",
+        "year": 2024,
+        "month": 12,
+        "closing_price": 1496.57
+      },
+      {
+        "date": "2025-01-01",
+        "year": 2025,
+        "month": 1,
+        "closing_price": 1420.92
+      },
+      {
+        "date": "2025-02-01",
+        "year": 2025,
+        "month": 2,
+        "closing_price": 1237.14
+      },
+      {
+        "date": "2025-03-01",
+        "year": 2025,
+        "month": 3,
+        "closing_price": 1398.91
+      },
+      {
+        "date": "2025-04-01",
+        "year": 2025,
+        "month": 4,
+        "closing_price": 1378.95
+      },
+      {
+        "date": "2025-05-01",
+        "year": 2025,
+        "month": 5,
+        "closing_price": 1399.71
+      },
+      {
+        "date": "2025-06-01",
+        "year": 2025,
+        "month": 6,
+        "closing_price": 1558.89
+      },
+      {
+        "date": "2025-07-01",
+        "year": 2025,
+        "month": 7,
+        "closing_price": 1524.4
+      },
+      {
+        "date": "2025-08-01",
+        "year": 2025,
+        "month": 8,
+        "closing_price": 1502.1
+      },
+      {
+        "date": "2025-09-01",
+        "year": 2025,
+        "month": 9,
+        "closing_price": 1356.0
+      },
+      {
+        "date": "2025-10-01",
+        "year": 2025,
+        "month": 10,
+        "closing_price": 1369.4
+      },
+      {
+        "date": "2025-11-01",
+        "year": 2025,
+        "month": 11,
+        "closing_price": 1351.3
+      },
+      {
+        "date": "2025-12-01",
+        "year": 2025,
+        "month": 12,
+        "closing_price": 1320.0
+      },
+      {
+        "date": "2026-01-01",
+        "year": 2026,
+        "month": 1,
+        "closing_price": 1185.6
+      }
+    ]
+  }
+}

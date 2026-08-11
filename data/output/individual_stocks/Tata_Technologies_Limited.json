@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "generated_on": "2026-01-24 20:59:42",
+    "data_range_years": 10,
+    "data_frequency": "monthly"
+  },
+  "stock_data": {
+    "name": "Tata Technologies Limited",
+    "requested_symbols": [
+      "TATATECH.NS",
+      "TATATECH.BO"
+    ],
+    "actual_symbol_used": "TATATECH.NS",
+    "data_points": 27,
+    "date_range": {
+      "start": "2023-11-01",
+      "end": "2026-01-01"
+    },
+    "monthly_prices": [
+      {
+        "date": "2023-11-01",
+        "year": 2023,
+        "month": 11,
+        "closing_price": 1280.34
+      },
+      {
+        "date": "2023-12-01",
+        "year": 2023,
+        "month": 12,
+        "closing_price": 1150.8
+      },
+      {
+        "date": "2024-01-01",
+        "year": 2024,
+        "month": 1,
+        "closing_price": 1083.76
+      },
+      {
+        "date": "2024-02-01",
+        "year": 2024,
+        "month": 2,
+        "closing_price": 1056.45
+      },
+      {
+        "date": "2024-03-01",
+        "year": 2024,
+        "month": 3,
+        "closing_price": 995.22
+      },
+      {
+        "date": "2024-04-01",
+        "year": 2024,
+        "month": 4,
+        "closing_price": 1040.61
+      },
+      {
+        "date": "2024-05-01",
+        "year": 2024,
+        "month": 5,
+        "closing_price": 1004.58
+      },
+      {
+        "date": "2024-06-01",
+        "year": 2024,
+        "month": 6,
+        "closing_price": 996.53
+      },
+      {
+        "date": "2024-07-01",
+        "year": 2024,
+        "month": 7,
+        "closing_price": 983.83
+      },
+      {
+        "date": "2024-08-01",
+        "year": 2024,
+        "month": 8,
+        "closing_price": 1049.05
+      },
+      {
+        "date": "2024-09-01",
+        "year": 2024,
+        "month": 9,
+        "closing_price": 1086.02
+      },
+      {
+        "date": "2024-10-01",
+        "year": 2024,
+        "month": 10,
+        "closing_price": 990.67
+      },
+      {
+        "date": "2024-11-01",
+        "year": 2024,
+        "month": 11,
+        "closing_price": 923.93
+      },
+      {
+        "date": "2024-12-01",
+        "year": 2024,
+        "month": 12,
+        "closing_price": 877.51
+      },
+      {
+        "date": "2025-01-01",
+        "year": 2025,
+        "month": 1,
+        "closing_price": 775.37
+      },
+      {
+        "date": "2025-02-01",
+        "year": 2025,
+        "month": 2,
+        "closing_price": 661.32
+      },
+      {
+        "date": "2025-03-01",
+        "year": 2025,
+        "month": 3,
+        "closing_price": 669.34
+      },
+      {
+        "date": "2025-04-01",
+        "year": 2025,
+        "month": 4,
+        "closing_price": 647.64
+      },
+      {
+        "date": "2025-05-01",
+        "year": 2025,
+        "month": 5,
+        "closing_price": 761.59
+      },
+      {
+        "date": "2025-06-01",
+        "year": 2025,
+        "month": 6,
+        "closing_price": 699.96
+      },
+      {
+        "date": "2025-07-01",
+        "year": 2025,
+        "month": 7,
+        "closing_price": 702.25
+      },
+      {
+        "date": "2025-08-01",
+        "year": 2025,
+        "month": 8,
+        "closing_price": 657.25
+      },
+      {
+        "date": "2025-09-01",
+        "year": 2025,
+        "month": 9,
+        "closing_price": 669.5
+      },
+      {
+        "date": "2025-10-01",
+        "year": 2025,
+        "month": 10,
+        "closing_price": 692.25
+      },
+      {
+        "date": "2025-11-01",
+        "year": 2025,
+        "month": 11,
+        "closing_price": 679.05
+      },
+      {
+        "date": "2025-12-01",
+        "year": 2025,
+        "month": 12,
+        "closing_price": 643.0
+      },
+      {
+        "date": "2026-01-01",
+        "year": 2026,
+        "month": 1,
+        "closing_price": 657.55
+      }
+    ]
+  }
+}

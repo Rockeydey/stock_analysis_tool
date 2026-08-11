@@ -1,0 +1,124 @@
+{
+    "stocks": [
+        {
+        "symbol": ["KIMS.NS", "KIMS.BO"],
+        "name": "KRISHNA INSTITUTE OF MEDICAL SCIENCES LIMITED"
+        },
+        {
+            "symbol": ["MEDANTA.NS", "MEDANTA.BO"],
+            "name": "GLOBAL HEALTH LIMITED"
+        },
+        {
+            "symbol": ["HCG.NS", "HCG.BO"],
+            "name": "HEALTHCARE GLOBAL ENTERPRISES LIMITED"
+        },
+        {
+            "symbol": ["ASTERDM.NS", "ASTERDM.BO"],
+            "name": "ASTER DM HEALTHCARE LIMITED"
+        },
+        {
+            "symbol": ["FORTIS.NS", "FORTIS.BO"],
+            "name": "Fortis Healthcare Limited"
+        },
+        {
+            "symbol": ["KOVAI.NS", "KOVAI.BO"],
+            "name": "KOVAI MEDICAL CENTER AND HOSPITAL LIMITED"
+        },
+        {
+            "symbol": ["SANGANI.NS", "SANGANI.BO"],
+            "name": "SANGANI HOSPITALS LIMITED"
+        },
+        {
+            "symbol": ["JLHL.NS", "JLHL.BO"],
+            "name": "JUPITER LIFE LINE HOSPITALS LIMITED"
+        },
+        {
+            "symbol": ["YATHARTH.NS", "YATHARTH.BO"],
+            "name": "YATHARTH HOSPITAL & TRAUMA CARE SERVICES LIMITED"
+        },
+        {
+            "symbol": ["AGARWALEYE.NS", "AGARWALEYE.BO"],
+            "name": "DR. AGARWAL'S HEALTH CARE LIMITED"
+        },
+        {
+            "symbol": ["HEALTHIETF.NS", "HEALTHIETF.BO"],
+            "name": "ICICI Pru Nifty Healthcare ETF"
+        },
+        {
+            "symbol": ["APOLLOHOSP.NS", "APOLLOHOSP.BO"],
+            "name": "APOLLO HOSPITALS ENTERPRISE LIMITED"
+        },
+        {
+            "symbol": ["NH.NS", "NH.BO"],
+            "name": "NARAYANA HRUDAYALAYA Limited"
+        },
+        {
+            "symbol": ["MAXHEALTH.NS", "MAXHEALTH.BO"],
+            "name": "MAX HEALTHCARE INSTITUTE LIMITED"
+        },
+        {
+            "symbol": ["ARTEMISMED.NS", "ARTEMISMED.BO"],
+            "name": "ARTEMIS MEDICARE SERVICES LIMITED"
+        },
+        {
+            "symbol": ["SHALBY.NS", "SHALBY.BO"],
+            "name": "SHALBY LIMITED"
+        },
+        {
+            "symbol": ["INDRAMEDCO.NS", "INDRAMEDCO.BO"],
+            "name": "INDRAPRASTHA MEDICAL CORPORATION LIMITED"
+        },
+        {
+            "symbol": ["DRAGARWAL.NS", "DRAGARWAL.BO"],
+            "name": "DR. AGARWAL'S EYE HOSPITAL LIMITED"
+        },
+        {
+            "symbol": ["RAINBOW.NS", "RAINBOW.BO"],
+            "name": "RAINBOW CHILDREN'S MEDICARE LIMITED"
+        },
+        {
+            "symbol": ["LOTUSEYE.NS", "LOTUSEYE.BO"],
+            "name": "Lotus Eye Hospital and Institute Limited"
+        },
+        {
+            "symbol": ["METROPOLIS.NS", "METROPOLIS.BO"],
+            "name": "METROPOLIS HEALTHCARE LIMITED"
+        },
+        {
+            "symbol": ["VIJAYA.NS", "VIJAYA.BO"],
+            "name": "VIJAYA DIAGNOSTIC CENTRE LIMITED"
+        },
+        {
+            "symbol": ["GKSLIMITED.NS", "GKSLIMITED.BO"],
+            "name": "G K S LIMITED"
+        },
+        {
+            "symbol": ["NEPHROCARE.NS", "NEPHROCARE.BO"],
+            "name": "NEPHRO CARE INDIA LIMITED"
+        },
+        {
+            "symbol": ["LALPATHLAB.NS", "LALPATHLAB.BO"],
+            "name": "DR. LAL PATHLABS Limited"
+        },
+        {
+            "symbol": ["THYROCARE.NS", "THYROCARE.BO"],
+            "name": "THYROCARE TECHNOLOGIES LIMITED"
+        },
+        {
+            "symbol": ["KRSNAA.NS", "KRSNAA.BO"],
+            "name": "KRSNAA DIAGNOSTICS LIMITED"
+        },
+        {
+            "symbol": ["SURAKSHA.NS", "SURAKSHA.BO"],
+            "name": "SURAKSHA DIAGNOSTIC LIMITED"
+        },
+        {
+            "symbol": ["GPTHEALTH.NS", "GPTHEALTH.BO"],
+            "name": "GPT HEALTHCARE LIMITED"
+        },
+        {
+            "symbol": ["VIMTALABS.NS", "VIMTALABS.BO"],
+            "name": "VIMTA LABS LIMITED"
+        }
+    ]
+}

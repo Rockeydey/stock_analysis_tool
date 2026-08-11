@@ -1,0 +1,8 @@
+nsetools 
+yfinance 
+pandas
+numpy
+requests 
+beautifulsoup4
+openpyxl
+matplotlib

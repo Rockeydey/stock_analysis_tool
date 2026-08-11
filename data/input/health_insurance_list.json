@@ -1,0 +1,54 @@
+[
+    {
+        "symbol": ["LICI.NS", "LICI.BO"],
+        "name": "Life Insurance Corporation of India"
+    },
+    {
+        "symbol": ["SBILIFE.NS", "SBILIFE.BO"],
+        "name": "SBI LIFE INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["HDFCLIFE.NS", "HDFCLIFE.BO"],
+        "name": "HDFC LIFE INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["ICICIGI.NS", "ICICIGI.BO"],
+        "name": "ICICI LOMBARD GENERAL INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["ICICIPRULI.NS", "ICICIPRULI.BO"],
+        "name": "ICICI PRUDENTIAL LIFE INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["GICRE.NS", "GICRE.BO"],
+        "name": "GENERAL INSURANCE CORPORATION OF INDIA"
+    },
+    {
+        "symbol": ["MFSL.NS", "MFSL.BO"],
+        "name": "Max Financial Services Limited"
+    },
+    {
+        "symbol": ["GODIGIT.NS", "GODIGIT.BO"],
+        "name": "GO DIGIT GENERAL INSURANCE LIMITED"
+    },
+    {
+        "symbol": ["STARHEALTH.NS", "STARHEALTH.BO"],
+        "name": "STAR HEALTH AND ALLIED INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["NIACL.NS", "NIACL.BO"],
+        "name": "THE NEW INDIA ASSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["NIVABUPA.NS", "NIVABUPA.BO"],
+        "name": "NIVA BUPA HEALTH INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["CANHLIFE.NS", "CANHLIFE.BO"],
+        "name": "CANARA HSBC LIFE INSURANCE COMPANY LIMITED"
+    },
+    {
+        "symbol": ["MEDIASSIST.NS", "MEDIASSIST.BO"],
+        "name": "MEDI ASSIST HEALTHCARE SERVICES LIMITED"
+    }
+]

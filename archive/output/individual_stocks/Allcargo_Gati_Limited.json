@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "generated_on": "2026-01-12 22:48:43",
+    "data_range_years": 10,
+    "data_frequency": "monthly"
+  },
+  "stock_data": {
+    "name": "Allcargo Gati Limited",
+    "requested_symbols": [
+      "ACLGATI.NS"
+    ],
+    "actual_symbol_used": "ACLGATI.NS",
+    "data_points": 1,
+    "date_range": {
+      "start": "2025-11-11",
+      "end": "2025-11-11"
+    },
+    "monthly_prices": [
+      {
+        "date": "2025-11-11",
+        "year": 2025,
+        "month": 11,
+        "closing_price": 66.5
+      }
+    ]
+  }
+}

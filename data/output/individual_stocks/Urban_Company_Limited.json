@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "generated_on": "2026-01-24 20:59:47",
+    "data_range_years": 10,
+    "data_frequency": "monthly"
+  },
+  "stock_data": {
+    "name": "Urban Company Limited",
+    "requested_symbols": [
+      "URBANCO.NS"
+    ],
+    "actual_symbol_used": "URBANCO.NS",
+    "data_points": 5,
+    "date_range": {
+      "start": "2025-09-01",
+      "end": "2026-01-01"
+    },
+    "monthly_prices": [
+      {
+        "date": "2025-09-01",
+        "year": 2025,
+        "month": 9,
+        "closing_price": 167.38
+      },
+      {
+        "date": "2025-10-01",
+        "year": 2025,
+        "month": 10,
+        "closing_price": 157.75
+      },
+      {
+        "date": "2025-11-01",
+        "year": 2025,
+        "month": 11,
+        "closing_price": 135.03
+      },
+      {
+        "date": "2025-12-01",
+        "year": 2025,
+        "month": 12,
+        "closing_price": 133.55
+      },
+      {
+        "date": "2026-01-01",
+        "year": 2026,
+        "month": 1,
+        "closing_price": 124.85
+      }
+    ]
+  }
+}

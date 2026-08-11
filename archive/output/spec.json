@@ -1,0 +1,42 @@
+{
+    "engeneering": [
+        {
+            "symbol": [
+                "542012.BO"
+            ],
+            "name": "A-1 Limited"
+        },
+        {
+            "symbol": [
+                "ABB.NS",
+                "ABB.BO"
+            ],
+            "name": "ABB India Limited"
+        }
+    ],
+    "hospitals": [
+        {
+            "symbol": [
+                "KIMS.NS",
+                "KIMS.BO"
+            ],
+            "name": "KRISHNA INSTITUTE OF MEDICAL SCIENCES LIMITED"
+        }
+    ],
+    "insurance": [
+        {
+            "symbol": [
+                "LICI.NS",
+                "LICI.BO"
+            ],
+            "name": "Life Insurance Corporation of India"
+        },
+        {
+            "symbol": [
+                "SBILIFE.NS",
+                "SBILIFE.BO"
+            ],
+            "name": "SBI LIFE INSURANCE COMPANY LIMITED"
+        }
+    ]
+}
