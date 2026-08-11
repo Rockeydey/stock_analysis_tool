@@ -1,0 +1,24 @@
+{
+  "local_version": "0.0.1",
+  "updated_on": "2026-08-12",
+  "parameters": {
+    "threshold_config": {
+      "type": "string",
+      "required": true,
+      "default": {
+            "discount_threshold": 2
+        },
+      "description": "Discount threshold interpretation: 1.1 means 10% discount, 1.2 means 20% discount, 2 means 50% discount, 4 means 75% discount, 10 means 90% discount"
+    },
+    "database_path": {
+      "type": "string",
+      "required": true,
+      "default": "C:/Users/rocke/OneDrive/1. daily_deliverables/1. master_folder/investment_strategy/project_automation/stock_db/data/stocks.duckdb",
+      "description": "Path to the database file stock data stored in DuckDB format"
+    }
+  }
+}
+
+
+
+

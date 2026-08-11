@@ -15,15 +15,15 @@ import json
 import pandas as pd
 from datetime import datetime, timedelta
 import numpy as np
-from common.yearwise_price_change_summary import get_historical_prices
+from src.yearwise_price_change_summary import get_historical_prices
 from dir import stocks_historical_data
 
 # custom functions
-from common.functions import create_stocks_dataframe
-from common.regression import calculate_trend
-from common.prepare_data import prepare_stock_data
-from common.return_calculate import calculate_returns
-from common.price_status import calculate_price_status
+from src.functions import create_stocks_dataframe
+from src.regression import calculate_trend
+from src.prepare_data import prepare_stock_data
+from src.return_calculate import calculate_returns
+from src.price_status import calculate_price_status
 from dir import discount_threshold # User input for filtering stocks
 
 

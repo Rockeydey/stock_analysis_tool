@@ -1,6 +1,6 @@
 import pandas as pd
 from datetime import datetime, timedelta
-from common.closest_date import find_closest_date
+from src.closest_date import find_closest_date
 
 
 def get_historical_prices(data_dict):
