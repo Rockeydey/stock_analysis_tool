@@ -13,7 +13,7 @@
     "database_path": {
       "type": "string",
       "required": true,
-      "default": "C:/Users/rocke/OneDrive/1. daily_deliverables/1. master_folder/investment_strategy/project_automation/stock_db/data/stocks.duckdb",
+      "default": "C:/Users/rocke/OneDrive/1. daily_deliverables/1. master_folder/investment_strategy/project_automation/stock_db/src/data/stocks.duckdb",
       "description": "Path to the database file stock data stored in DuckDB format"
     }
   }

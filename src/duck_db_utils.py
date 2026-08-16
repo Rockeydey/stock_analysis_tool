@@ -17,17 +17,55 @@ from src.load_config import load_json_config
 local_config = load_json_config("config/local.json")
 
 DB_PATH = Path(local_config["database_path"])
+_CONN: duckdb.DuckDBPyConnection | None = None
 
 
-def get_conn() -> duckdb.DuckDBPyConnection:
+def get_conn(read_only: bool = False) -> duckdb.DuckDBPyConnection:
     """
     Get a connection to the DuckDB database.
     
+    Args:
+        read_only (bool): When True, force a read-only connection.
+
     Returns:
         duckdb.DuckDBPyConnection: A connection object to the DuckDB database.
     """
+    global _CONN
+
+    # Reuse an existing live connection to avoid file lock errors on Windows.
+    if _CONN is not None:
+        try:
+            _CONN.execute("SELECT 1")
+            return _CONN
+        except Exception:
+            _CONN = None
+
     DB_PATH.parent.mkdir(parents=True, exist_ok=True)
-    return duckdb.connect(str(DB_PATH))
+
+    # If another process holds a write lock, fallback to read-only so notebooks can still query.
+    try:
+        _CONN = duckdb.connect(str(DB_PATH), read_only=read_only)
+    except duckdb.IOException as exc:
+        if read_only:
+            raise
+
+        is_lock_error = "already open" in str(exc).lower() or "being used" in str(exc).lower()
+        if is_lock_error and DB_PATH.exists():
+            _CONN = duckdb.connect(str(DB_PATH), read_only=True)
+        else:
+            raise
+
+    return _CONN
+
+
+def close_conn() -> None:
+    """Close the shared DuckDB connection if it is open."""
+    global _CONN
+    if _CONN is not None:
+        try:
+            _CONN.close()
+        finally:
+            _CONN = None
 
 
 def get_db_table_names(conn: duckdb.DuckDBPyConnection) -> list[str]:
